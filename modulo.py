@@ -4,5 +4,5 @@ def moduloo(n):
         a=a*i
     print("le moulo de n est : ",a)
 
-
+print('teste teste teste')
 moduloo(4)
